@@ -1,164 +1,136 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:8A2BE2&height=190&section=header&text=TAKSH%20KASIYANI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=B.E.%20Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Learning+%2B+Building+%2B+Improving+%F0%9F%94%A5;Always+Building.+Always+Learning.+%E2%9A%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D"/>
-
-<br>
-
-<a href="https://github.com/takshkasiyani1808"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://www.linkedin.com/in/taksh-kasiyani-788a5442a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/></a>
-<a href="https://leetcode.com/u/TakshKasiyani/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=takshkasiyani1808&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
-
+<!-- Animated Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Taksh%20Kasiyani&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20B.E.%20Computer%20Engineering&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Typing SVG -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=I'm+a+serious+student+developer;Building+real+projects;Preparing+for+internships;Full-stack+Development+%7C+Always+Building;Internship+Ready+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=takshkasiyani1808&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Internship%20Ready-39FF14?style=for-the-badge&labelColor=000000" alt="status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaborations-black?style=for-the-badge&color=39FF14&labelColor=000000" alt="open to collab"/>
 </div>
-
----
-
-## ⚡ Who am I?
-
-I'm Taksh Kasiyani, a B.E. Computer Engineering student from Ahmedabad and an aspiring Full-Stack Developer.
-
-I enjoy building real-world projects, learning new technologies, solving problems and improving my development skills through practical work.
-
-Currently, I'm focused on becoming a strong Full-Stack Developer and preparing myself for internships and real-world development opportunities.
-
----
-
+<br/>
+<!-- ABOUT -->
+🧑‍💻 About Me
+```yaml
+name: "Taksh Kasiyani"
+role: "Full Stack Developer"
+degree: "B.E. Computer Engineering (2025 - 2029)"
+location: "Ahmedabad, India"
+current_focus: "Building real-world projects & preparing for internships"
+learning: "Constantly exploring new technologies"
+collaboration: "Open to internships & collaborations"
+fun_fact: "I turn coffee ☕ into code 💻"
+```
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td>B.E. Computer Engineering Student (2025 - 2029)</td>
+  </tr>
+  <tr>
+    <td align="center">🛠️</td>
+    <td>Full-stack developer, building things end-to-end</td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td>Building real-world, production-style projects</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td>Constantly learning new technologies</td>
+  </tr>
+  <tr>
+    <td align="center">💼</td>
+    <td>Open to internships & collaborations</td>
+  </tr>
+</table>
+<br/>
+<!-- SKILLS -->
+🧰 Tech Stack & Tools
 <div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,nodejs,mysql,postgres,mongodb,git,github,vscode,idea,postman&theme=dark"/>
-
+Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,html,css&theme=dark" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap&theme=dark" />
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,firebase&theme=dark" />
+Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,docker&theme=dark" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
+> 💡 *Skill icons shown above reflect my current stack — updated as I keep learning new tools & technologies.*
+<br/>
+<!-- PROJECTS -->
+🚀 Featured Projects
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 Hybrid Real-Time Log Analyzer
-
-A real-time log monitoring, analysis and search system designed to make working with large and constantly changing logs faster and easier.
-
-**Features**
-- Real-time log monitoring
-- Fast log searching
-- Log analysis
-- Data structure based processing
-- Database integration
-- Efficient filtering and searching
-
+<td width="50%">
+🔍 Hybrid Real-Time Log Analyzer & Search Engine
+A real-time system that ingests, indexes, and analyzes logs on the fly — enabling fast full-text search, filtering, and anomaly spotting across large streams of log data. Built with a focus on performance, scalability, and a clean search experience similar to production-grade observability tools.
+Highlights:
+⚡ Real-time log ingestion & indexing pipeline
+🔎 Fast full-text search with filters
+📊 Dashboards for log insights & trends
 </td>
-
-<td width="50%" valign="top">
-
-### 🏠 Smart Home Environmental Monitoring
-
-A smart environmental monitoring system designed to monitor household conditions and respond to environmental changes.
-
-**Features**
-- Temperature monitoring
-- Light monitoring
-- Motion detection
-- Alert mechanism
-- Automated responses
-- Real-time status display
-- Connected device communication
-
+<td width="50%">
+🏠 Smart Home Environmental & Monitoring System
+An IoT-driven system that continuously monitors home environmental parameters (temperature, humidity, air quality, etc.), visualizes live data, and triggers smart alerts — bringing automation and awareness to everyday living spaces.
+Highlights:
+🌡️ Live sensor data monitoring
+📈 Real-time visualization dashboard
+🔔 Smart threshold-based alerts
 </td>
 </tr>
 </table>
-
----
-
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=takshkasiyani1808&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshkasiyani1808&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=takshkasiyani1808&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B00&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=8B949E"/>
-
+📌 More projects available on my GitHub repositories — check them out!
 </div>
-
----
-
+<br/>
+<!-- GITHUB STATS -->
+📊 GitHub Analytics
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=takshkasiyani1808&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=takshkasiyani1808&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshkasiyani1808&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=takshkasiyani1808&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=takshkasiyani1808&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
 </div>
-
----
-
+<br/>
+<!-- TROPHIES -->
+🏆 GitHub Trophies
 <div align="center">
-
-## 🧩 LeetCode
-
-<a href="https://leetcode.com/u/TakshKasiyani/">
-<img src="https://leetcard.jacoblin.cool/TakshKasiyani?theme=dark&font=Baloo_2&ext=heatmap&cache=3600"/>
-</a>
-
-<br>
-
-<a href="https://leetcode.com/u/TakshKasiyani/">
-<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=takshkasiyani1808&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </div>
-
----
-
+<br/>
+<!-- LEETCODE -->
+🧠 LeetCode Stats
 <div align="center">
-
-## 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/takshkasiyani1808/takshkasiyani1808/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+<img src="https://leetcard.jacoblin.cool/TakshKasiyani?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+<br/><br/>
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=000000&color=39FF14)
 </div>
-
----
-
+> 🟩 *My LeetCode submission heatmap (the green dots!) is embedded above and updates automatically as I keep solving problems.*
+<br/>
+<!-- CONTRIBUTION SNAKE -->
+🐍 Contribution Snake
 <div align="center">
-
-## 💼 Open to Opportunities
-
-**Internships · Collaborations · Interesting Projects · Learning Opportunities**
-
-<br>
-
-<a href="https://www.linkedin.com/in/taksh-kasiyani-788a5442a">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/takshkasiyani1808/takshkasiyani1808/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+<sub>⚙️ Auto-generated via GitHub Actions — add the <code>snake.yml</code> workflow below to activate it on your profile repo.</sub>
 </div>
-
----
-
+<br/>
+<!-- CONNECT -->
+🌐 Connect With Me
 <div align="center">
-
-### ⚡ Always Building • Always Learning • Always Improving
-
-<a href="https://github.com/takshkasiyani1808">GitHub</a> ·
-<a href="https://www.linkedin.com/in/taksh-kasiyani-788a5442a">LinkedIn</a> ·
-<a href="https://leetcode.com/u/TakshKasiyani/">LeetCode</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:0066FF,100:00F5FF&height=100&section=footer"/>
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000)
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+💚 "Strong developer · Serious learner · Internship-ready · Creative"
+Thanks for visiting my profile — feel free to explore my repos & connect!
 </div>
