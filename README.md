@@ -62,7 +62,7 @@ The project strengthened my skills in **Java Programming, JavaFX, Data Structure
 It provides a practical approach to automated log analysis, debugging, performance monitoring, and system reliability.
 
 **Highlights:**
-- ⚡ Real-time log ingestion & processing
+- ⚡ Real time log ingestion & processing
 - 🔎 Error, warning & anomaly detection
 - 📊 Automated log reports & insights
 
