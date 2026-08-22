@@ -122,7 +122,7 @@ It also gave me the opportunity to be selected for the **LJ INNOVATION VILLAGE**
 #### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/takshkasiyani1808/takshkasiyani1808/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/takshkasiyani1808/takshkasiyani1808/output/snake.svg" alt="contribution snake" width="100%"/>
 </div>
 
 #### 🌐 Connect With Me
