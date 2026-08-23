@@ -24,7 +24,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E Degree (2025 - 2029)
-- 🛠️ Full-stack developer
+- 🛠️ Full stack developer
 - 💻 Building real-world projects
 - 🚀 Constantly learning new technologies
 - 💼 Open to internships & collaborations
