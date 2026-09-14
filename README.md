@@ -55,32 +55,28 @@
 
 #### 🔍 Hybrid Real-Time Log Analyzer & Search Engine
 
-Built this project to monitor, process, and analyze system logs in real time and give log report. It detects errors, warnings, anomalies, and critical events, helping identify issues faster and improve system monitoring.
+Monitors and analyzes system logs in real time, detecting errors, warnings, and anomalies to improve system reliability.
 
-The project strengthened my skills in **Java Programming, JavaFX, Data Structures, SQL, Database Management, Log Processing, Real-Time Monitoring, and Problem Solving.**
-
-It provides a practical approach to automated log analysis, debugging, performance monitoring, and system reliability.
+Built with **Java, JavaFX, SQL, Data Structures & Log Processing.**
 
 **Highlights:**
-- ⚡ Real time log ingestion & processing
-- 🔎 Error, warning & anomaly detection
-- 📊 Automated log reports & insights
+- ⚡ Real-time log ingestion
+- 🔎 Anomaly detection
+- 📊 Automated reports
 
 </td>
 <td width="50%" valign="top">
 
 #### 🏠 Smart Home Environment Monitoring & Automation System
 
-Used IoT, sensors, automation, Bluetooth communication, embedded systems, and real-time monitoring to build the project.
+Uses IoT, sensors & Bluetooth for real-time home environment monitoring and automation.
 
-The project strengthened my practical problem-solving and technical skills and helped me gain confidence in building real-world solutions.
-
-It also gave me the opportunity to be selected for the **LJ INNOVATION VILLAGE** event and showcase my work.
+Selected for the **LJ Innovation Village** event. 🏆
 
 **Highlights:**
-- 📡 IoT + Bluetooth-based automation
-- 🌡️ Real-time environmental monitoring
-- 🏆 Selected for LJ Innovation Village
+- 📡 IoT + Bluetooth automation
+- 🌡️ Live monitoring
+- 🏆 LJ Innovation Village
 
 </td>
 </tr>
@@ -101,12 +97,6 @@ It also gave me the opportunity to be selected for the **LJ INNOVATION VILLAGE**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=takshkasiyani1808&theme=nightowl&bg_color=0f0c29&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-</div>
-
-#### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=takshkasiyani1808&theme=nord&no-frame=true&no-bg=false&margin-w=15&column=7"/>
 </div>
 
 #### 🧠 LeetCode Stats
