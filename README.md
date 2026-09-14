@@ -90,12 +90,7 @@ Selected for the **LJ Innovation Village** event. 🏆
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=takshkasiyani1808&show_icons=true&theme=nightowl&hide_border=true&bg_color=0f0c29&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshkasiyani1808&layout=compact&theme=nightowl&hide_border=true&bg_color=0f0c29&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=takshkasiyani1808&theme=nightowl&hide_border=true&background=0f0c29&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takshkasiyani1808&theme=nightowl&bg_color=0f0c29&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -113,16 +108,6 @@ Selected for the **LJ Innovation Village** event. 🏆
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/takshkasiyani1808/takshkasiyani1808/output/snake.svg" alt="contribution snake" width="100%"/>
-</div>
-
-#### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0f0c29)](https://linkedin.com/in/taksh-kasiyani-788a5442a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=38BDF8&labelColor=0f0c29)](https://leetcode.com/u/TakshKasiyani/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0f0c29)](https://github.com/takshkasiyani1808)
-
 </div>
 
 <div align="center">
