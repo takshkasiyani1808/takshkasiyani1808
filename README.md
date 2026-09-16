@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Taksh%20Kasiyani&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20B.E.%20Computer%20Engineering&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=I'm+a+serious+student+developer;Building+real+projects;Preparing+for+internships;Full-stack+Development+%7C+Always+Building;Internship+Ready+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=never+stops+learning+because+life+never+stops+teaching;Building+real+life+projects;Preparing+for+internships;Full-stack+Development+%7C+Always+Building+Always+growing;Internship+Ready+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
