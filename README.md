@@ -30,21 +30,90 @@
 - 🚀 Constantly learning new technologies
 - 💼 Open to internships & collaborations
 
+
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,html,css&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" height="50" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+  </tr>
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap&theme=dark" />
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50" height="50" alt="Bootstrap"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
 
-**Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,firebase&theme=dark" />
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" height="50" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/logos:jupyter.svg" width="50" height="50" alt="Jupyter Notebook"/><br/>
+      <sub><b>Jupyter Notebook</b></sub>
+    </td>
+  </tr>
 
-**Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,docker&theme=dark" />
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50" height="50" alt="IntelliJ IDEA"/><br/>
+      <sub><b>IntelliJ IDEA</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 </div>
 
